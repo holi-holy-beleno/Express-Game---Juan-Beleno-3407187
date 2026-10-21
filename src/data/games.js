@@ -18,4 +18,5 @@ const games = [
         plataform: 'Multiplataforma'
     }
 ]
-module.export = games;
+
+export default games;
